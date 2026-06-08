@@ -72,6 +72,7 @@ CTFs help me practice problem solving, investigation, documentation, and technic
 - Building a clearer learning path for SOC, DFIR, and Blue Team topics
 - Preparing Red Team / Blue Team lab scenarios for practice
 - Improving practical investigation and documentation skills
+  
   ---
 ## Contact
 
