@@ -14,3 +14,60 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 📁 Repository Categories
+
+## 🏆 GPN CTF
+
+### Misc / Challenge
+- Super-Cat-Misc-CTF-
+- customer-service
+
+---
+
+## 🧬 Training Forensics
+
+### Disk / BitLocker
+- writeup-basic-disk-2
+- bitlocker
+
+### Windows Forensics / Investigation
+- Task-1-Forensics
+- Task-2-Forensics
+- Investigating-Windows
+
+---
+
+## 🧪 Training Windows / TryHackMe
+
+### Windows Fundamentals
+- Lab-Windows-Fundamentals-1
+- Windows-Fundamentals-2
+
+---
+
+## 🌐 Web / App Projects
+
+### Learning App
+- demo-ZeroEnglish
+- barista-trainer
+
+### AI / Tool Project
+- NovaAI
+
+---
+
+## 🤖 Automation / Bot
+
+- bot-diem-danh
+
+---
+
+## 👤 Profile / Personal
+
+- Le-Minh-Nhut---KMA
+
+---
+
+## 📦 Unsorted / Need Check
+
+- challenge-2-
