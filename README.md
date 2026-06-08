@@ -66,15 +66,13 @@ CTFs help me practice problem solving, investigation, documentation, and technic
 * More structured forensic investigation writeups
 
 ---
+## Current Work
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhut120c-boop\&show_icons=true\&hide_title=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhut120c-boop\&layout=compact\&hide_border=true)
-
----
-
+- Organizing CTF writeups and cybersecurity study notes
+- Building a clearer learning path for SOC, DFIR, and Blue Team topics
+- Preparing Red Team / Blue Team lab scenarios for practice
+- Improving practical investigation and documentation skills
+  ---
 ## Contact
 
 * Email: [nhut120c@gmail.com](mailto:nhut120c@gmail.com)
